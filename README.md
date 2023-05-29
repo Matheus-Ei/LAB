@@ -1,3 +1,3 @@
 # LAB
- <repository from the laboratory classroom>
+ repository from the laboratory classroom
  
